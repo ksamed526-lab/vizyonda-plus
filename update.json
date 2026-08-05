@@ -1,6 +1,6 @@
 {
-    "changelog":  "Guncelleme sistemi eklendi. Ayarlar \u003e Guncelleme Kontrol ile yeni surumleri kontrol edebilirsiniz.",
+    "changelog":  "Icerik zenginlestirme: Kategorilere 8 yeni tur bolumu (Dram, Gerilim, Macera, Gizem, Fantastik, Aile, Savas, Tarih), ana sayfaya yeni bolumler (Gerilim/Macera Filmleri, Aksiyon/Animasyon/Gerilim Dizileri, Bilim Kurgu/Dram/Korku Animeleri)",
     "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode":  1,
-    "versionName":  "1.0"
+    "versionCode":  2,
+    "versionName":  "1.2"
 }
