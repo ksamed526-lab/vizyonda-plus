@@ -1,6 +1,6 @@
 {
-    "changelog":  "Kategoriler ekrani yenilendi: geri ok kaldirildi, baslik duzeltildi, detaydan geri donuste liste korunuyor, kart basliklari 2 satir ve puanlar hizali",
+    "changelog":  "UI duzeltmeleri: kategori grid basligi status bar/centik altina alindi, kart genislikleri sabitlendi (104dp), uzun basliklar tek satir + ellipsis",
     "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode":  4,
-    "versionName":  "1.4"
+    "versionCode":  5,
+    "versionName":  "1.4-ui-fix"
 }
