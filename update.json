@@ -1,6 +1,6 @@
 {
     "changelog":  "UI duzeltmeleri: kategori grid basligi status bar/centik altina alindi, kart genislikleri sabitlendi (104dp), uzun basliklar tek satir + ellipsis",
     "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode":  5,
-    "versionName":  "1.4-ui-fix"
+    "versionCode":  6,
+    "versionName":  "1.5"
 }
