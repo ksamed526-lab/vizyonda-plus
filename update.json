@@ -1,6 +1,6 @@
 {
-    "changelog":  "Ana sayfa hizli kaydirma sirasindaki kapanma sorunu duzeltildi",
+    "changelog":  "Kategoriler ekrani yenilendi: geri ok kaldirildi, baslik duzeltildi, detaydan geri donuste liste korunuyor, kart basliklari 2 satir ve puanlar hizali",
     "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode":  3,
-    "versionName":  "1.3"
+    "versionCode":  4,
+    "versionName":  "1.4"
 }
