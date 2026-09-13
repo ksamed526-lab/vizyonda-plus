@@ -1,6 +1,6 @@
 {
-    "changelog":  "Kritik duzeltme: kategori kartlarina tiklayinca kapanma sorunu giderildi",
+    "changelog":  "Izle butonu tur bazli: filmler tarayici (Google arama), dizi/anime bolumler ekrani",
     "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode":  7,
-    "versionName":  "1.6"
+    "versionCode":  8,
+    "versionName":  "1.7"
 }
