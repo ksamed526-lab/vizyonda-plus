@@ -1,6 +1,6 @@
-﻿{
-    "changelog":  "Kategoriler 1.6 davranisina donduruldu (seksiyon secimi ve geri tusu duzeltildi). Filmlerde Izle butonu duzeltildi: filmler artik direkt oynatici/arama ekranina gidiyor. Dizi ve animelerde sezon bilgisi ve izleme suresi ozelligi korundu.",
-    "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode":  12,
-    "versionName":  "2.1"
+{
+    "changelog": "Kategoriler 1.6 davranisina donduruldu (seksiyon secimi ve geri tusu duzeltildi). Filmlerde Izle butonu duzeltildi: filmler artik direkt oynatici/arama ekranina gidiyor. Dizi ve animelerde sezon bilgisi ve izleme suresi ozelligi korundu.",
+    "url": "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
+    "versionCode": 12,
+    "versionName": "2.1"
 }
