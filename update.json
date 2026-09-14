@@ -1,6 +1,6 @@
 {
-    "changelog":  "2.0 surumu yayinlandi",
-    "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode":  11,
-    "versionName":  "2.0"
+    "changelog": "Güncelleme akışı düzeltildi: eksik indirme/kurma kodları geri getirildi. Artık uygulama içindeki Güncelleme Kontrol düğmesi yeni sürümleri kontrol edip kurabiliyor.",
+    "url": "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
+    "versionCode": 11,
+    "versionName": "2.0"
 }
