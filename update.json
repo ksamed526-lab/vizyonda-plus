@@ -1,6 +1,6 @@
 {
-    "changelog":  "Izle butonu tur bazli: filmler tarayici (Google arama), dizi/anime bolumler ekrani",
+    "changelog":  "Kategoriler ve Tümünü Gör ekranlarinda basligin bildirim cubuguyla cakismasi duzeltildi. Kategori ekrani acilis suresi hizlandirildi. Test reklamlari kaldirildi.",
     "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode":  8,
-    "versionName":  "1.7"
+    "versionCode":  9,
+    "versionName":  "1.8"
 }
