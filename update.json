@@ -1,6 +1,6 @@
-{
-    "changelog": "Güncelleme akışı düzeltildi: eksik indirme/kurma kodları geri getirildi. Artık uygulama içindeki Güncelleme Kontrol düğmesi yeni sürümleri kontrol edip kurabiliyor.",
-    "url": "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode": 11,
-    "versionName": "2.0"
+﻿{
+    "changelog":  "Kategoriler 1.6 davranisina donduruldu (seksiyon secimi ve geri tusu duzeltildi). Filmlerde Izle butonu duzeltildi: filmler artik direkt oynatici/arama ekranina gidiyor. Dizi ve animelerde sezon bilgisi ve izleme suresi ozelligi korundu.",
+    "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
+    "versionCode":  12,
+    "versionName":  "2.1"
 }
