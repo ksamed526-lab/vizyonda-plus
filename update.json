@@ -1,6 +1,6 @@
 {
-    "changelog":  "placeholder",
-    "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
     "versionCode":  10,
-    "versionName":  "1.9"
+    "versionName":  "1.9",
+    "url":  "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
+    "changelog":  "Gömülü tarayıcı düzeltildi: video tam ekran açılıyor, tam ekrandan çıkınca izleme sayfasına dönülmüyor, geri tuşu ana ekrana atmıyor."
 }
