@@ -1,6 +1,6 @@
 {
-    "changelog": "Kesfet bolumu Arama sekmesine tasindi. Arama'daki gereksiz filtre cipleri (Tumu/Film/Dizi/Anime) ve oneriler kaldirildi. Kesfet sekmesi simdilik bos. Tarayicida yatay cevirme artik sayfayi sifirlamiyor. Guncelleme penceresindeki bozuk karakterler duzeltildi. Akilli oneri bildirimi etkinlestirildi.",
+    "changelog": "Guncelleme kontrolu artik her acilista degil, gunde en fazla bir kez ve sessizce yapilir; guncel surumde hicbir sey gosterilmez. Yeni surum varsa ekranda pencere cikmaz, bunun yerine bildirim panelinde bildirim olarak duser ve normal bildirimden farkli bir sesle uyarir. Onceki surumdeki guncelleme akisi ve icerik duzeltmeleri korunmustur.",
     "url": "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode": 13,
-    "versionName": "2.2"
+    "versionCode": 14,
+    "versionName": "2.3"
 }
