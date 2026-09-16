@@ -1,6 +1,6 @@
 {
-    "changelog": "Kategoriler 1.6 davranisina donduruldu (seksiyon secimi ve geri tusu duzeltildi). Filmlerde Izle butonu duzeltildi: filmler artik direkt oynatici/arama ekranina gidiyor. Dizi ve animelerde sezon bilgisi ve izleme suresi ozelligi korundu.",
+    "changelog": "Kesfet bolumu Arama sekmesine tasindi. Arama'daki gereksiz filtre cipleri (Tumu/Film/Dizi/Anime) ve oneriler kaldirildi. Kesfet sekmesi simdilik bos. Tarayicida yatay cevirme artik sayfayi sifirlamiyor. Guncelleme penceresindeki bozuk karakterler duzeltildi. Akilli oneri bildirimi etkinlestirildi.",
     "url": "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode": 12,
-    "versionName": "2.1"
+    "versionCode": 13,
+    "versionName": "2.2"
 }
