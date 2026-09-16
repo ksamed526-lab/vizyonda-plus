@@ -1,6 +1,6 @@
 {
-    "changelog": "Guncelleme kontrolu artik her acilista degil, gunde en fazla bir kez ve sessizce yapilir; guncel surumde hicbir sey gosterilmez. Yeni surum varsa ekranda pencere cikmaz, bunun yerine bildirim panelinde bildirim olarak duser ve normal bildirimden farkli bir sesle uyarir. Onceki surumdeki guncelleme akisi ve icerik duzeltmeleri korunmustur.",
+    "changelog": "Profil sekmesindeki Favoriler ve Izleme Listesi kartlarina dokunuldugunda artik detay ekrani aciliyor (onceden acilmiyordu). Onceki surumlerdeki duzeltmeler korunmustur: Kesfet bolumu Arama sekmesine tasindi, arama filtresi ve oneriler kaldirildi, guncelleme kontrolu gunde en fazla bir kez ve yalnizca guncelleme varsa bildirim panelinde farkli sesli bildirim olarak gelir.",
     "url": "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode": 14,
-    "versionName": "2.3"
+    "versionCode": 15,
+    "versionName": "2.4"
 }
