@@ -1,6 +1,6 @@
 {
-    "changelog": "Profil sekmesindeki Favoriler ve Izleme Listesi kartlarina dokunuldugunda artik detay ekrani aciliyor (onceden acilmiyordu). Onceki surumlerdeki duzeltmeler korunmustur: Kesfet bolumu Arama sekmesine tasindi, arama filtresi ve oneriler kaldirildi, guncelleme kontrolu gunde en fazla bir kez ve yalnizca guncelleme varsa bildirim panelinde farkli sesli bildirim olarak gelir.",
+    "changelog": "TÜRK YAPIMLARI SEKMESİ: Keşfet sekmesi artık 'Türk Yapımları' - ana sayfa formatında kategorili, yatay kaydırmalı bölümler (Trend Türk Dizileri, Çok İzlenen Türk Filmleri, En İyi Puanlı Diziler/Filmler, Kemal Sunal, Şener Şen, Cem Yılmaz, Cüneyt Arkın, Türkan Şoray, Kadir İnanır, Adile Naşit, Tarık Akan, Şahan Gökbakar, Nuri Bilge Ceylan, Yeşilçam Klasikleri, 80'ler, 90'lar ve 20+ tür listesi). Her bölümde 'Tümünü Gör' ile tam liste ekranı ve sayfalama. Yalnızca Türk yapımı sonuç veren arama. Sekme ikonu TV olarak değişti ve içerik artık sekme içinde açılıyor. UYGULAMA İÇİ YOUTUBE OYNATICI: Dizilerde 'İzle' artık tarayıcıya gitmiyor, uygulama içinde tam ekran yatay oynatıcı açılıyor (en-boy oranı korunarak ekrana tam sığdırma). 10 sn ileri/geri, elle sürüklenebilir zaman çubuğu, kalite menüsü, otomatik gizlenen kontroller, reklam engelleyici ve Google hesabı ile giriş (YouTube Premium için). Bölüm-video eşleştirmesi puanlama ile iyileştirildi.",
     "url": "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode": 15,
-    "versionName": "2.4"
+    "versionCode": 17,
+    "versionName": "2.6"
 }
