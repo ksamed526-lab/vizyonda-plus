@@ -1,6 +1,6 @@
 {
-    "changelog": "SÜRÜM 2.7 — Uygulama içi YouTube oynatıcı artık YALNIZCA 'Türk Yapımları' sekmesinde çalışıyor. Diğer tüm sekmelerde (Ana Sayfa, Filmler/Diziler/Anime, Arama, Kategoriler) filmlerin 'İzle' butonu doğrudan tarayıcıya gider; diziler ve animeler için önce sezon/bölüm listesi açılır ve 'İzle' tarayıcıya yönlendirir. Türk Yapımları'nda ise dizi bölümleri uygulama içi oynatıcıda açılır. Ayarlar > 'Güncelleme Kontrol' menüsü aktive edildi: artık 24 saat beklemeden anında güncelleme kontrolü yapar ve sonucu bildirir. Dizi detaylarının bazılarında görülen 'Film detayları yüklenemedi' hatası giderildi. Önceki 2.6 özellikleri korunmuştur: Türk Yapımları ana sayfa formatında kategorili bölümler ve 'Tümünü Gör', uygulama içi YouTube oynatıcıda 10 sn ileri/geri, elle zaman çubuğu, kalite menüsü, reklam engelleyici, tam ekran ve Google hesabı ile giriş (YouTube Premium).",
+    "changelog": "SÜRÜM 2.8 — Uygulama içi YouTube oynatıcı yenilendi: YouTube'un kendi tüm butonları/ara yüzü tamamen gizlendi; yalnızca uygulamanın kontrol çubuğu kullanılıyor (10 sn geri, 10 sn ileri, elle sürüklenebilir zaman çubuğu ve süre göstergesi, Kalite, Sonraki, kapat). Video artık kırpılmadan, en-boy oranı korunarak ekrana tam oturuyor; sayfa sabit, aşağı/yukarı kaydırma düzen bozmuyor. Videolar açıldığında kalite otomatik olarak en yükseğe (hd2160/highres) zorlanıyor. Kontroller 4 saniye sonra gizleniyor, ekrana dokununca geri geliyor. İşe yaramayan reklam engelleyici kaldırıldı. Önceki sürüm özellikleri korunmuştur: Türk Yapımları kategorili bölümler ve 'Tümünü Gör', güncelleme kontrol butonu, YouTube oynatıcı yalnızca Türk Yapımları sekmesinde (diğer sekmelerde filmler tarayıcıya, diziler sezon/bölüm + tarayıcıya gider).",
     "url": "https://ksamed526-lab.github.io/vizyonda-plus/VizyonPlus.apk",
-    "versionCode": 18,
-    "versionName": "2.7"
+    "versionCode": 19,
+    "versionName": "2.8"
 }
